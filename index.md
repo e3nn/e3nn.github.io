@@ -82,8 +82,8 @@ Some previous recorded talks on `e3nn`.
   * <strong>Risi Kondor, Zhen Lin, Shubhendu Trivedi</strong>
 * 2018/02 [Tensor Field Networks](https://arxiv.org/abs/1802.08219)* ([code](https://github.com/tensorfieldnetworks/tensorfieldnetworks))
   * <strong>Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley</strong>
-<br>
-*indicates foundational theory paper in the development for Euclidean neural networks.
+
+*indicates foundational paper in the development for Euclidean neural networks.
 
 ### Related work
 * 2019/11 [General E(2)-Equivariant Steerable CNNs](https://arxiv.org/abs/1911.08251)
