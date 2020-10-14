@@ -52,7 +52,7 @@ Some previous recorded talks on `e3nn`.
 * 2020/10 [On the Universality of Rotation Equivariant Point Cloud Networks](https://arxiv.org/abs/2010.02449)
   * <strong>Nadav Dym, Haggai Maron<strong>
   * Proves the expressivity of rotation equivariant neural networks.
-* 2020/09 Z. [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
+* 2020/09 [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
   * <strong>Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li</strong>
   * `e3nn` is used to predict phonon density of states (DOS) from crystal structure. Trained network is used to identify materials with high specific heat.
 * 2020/09 [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
@@ -77,6 +77,7 @@ Some previous recorded talks on `e3nn`.
   * <strong>Risi Kondor, Zhen Lin, Shubhendu Trivedi</strong>
 * 2018/02 [Tensor Field Networks](https://arxiv.org/abs/1802.08219)* ([code](https://github.com/tensorfieldnetworks/tensorfieldnetworks))
   * <strong>Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley</strong>
+<br>
 *indicates foundational theory paper in the development for Euclidean neural networks.
 
 ### Related work
