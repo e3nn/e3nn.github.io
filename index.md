@@ -22,7 +22,12 @@ The full instructions for installing `e3nn` can be found [here](https://github.c
 
 ## Math that's good to know {#math}
 
-`e3nn` makes use of group theory and representation theory. You don't need to be knowledgeable on these topics to start using `e3nn` but it might be useful to have some relevant resources handy. Tess's favorite resource is [Group Theory: Application the Physics of Condensed Matter](https://www.springer.com/gp/book/9783540328971).
+`e3nn` makes use of group theory and representation theory. You don't need to be knowledgeable on these topics to start using `e3nn` but it might be useful to have some relevant resources handy. Some of our favorite resources are:
+* [Group Theory: Application the Physics of Condensed Matter by Dresselhaus, Dresselhaus, and Jorio](https://www.springer.com/gp/book/9783540328971)
+* [Lie Algebras in Particle Physics by H. Georgi](https://www.taylorfrancis.com/books/9780429499210)
+* [Lecture Note on Group Theory in Physics by D. Arovas](https://courses.physics.ucsd.edu/2016/Spring/physics220/LECTURES/GROUP_THEORY.pdf)
+* [Group Theory in a Nutshell for Physicists by A. Zee](https://press.princeton.edu/books/hardcover/9780691162690/group-theory-in-a-nutshell-for-physicists)
+* [Linear Representations of Finite Group by J-P. Serre](https://link.springer.com/book/10.1007/978-1-4684-9458-7)
 
 # Resources {#resources}
 
