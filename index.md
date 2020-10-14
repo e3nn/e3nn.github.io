@@ -14,8 +14,8 @@ E(3) is the [Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group) in 
 ## Installation {#installation}
 
 Installing `e3nn` and dependencies if you are only going to use the `cpu` is straightforward. Things get a bit more complicated if you want to `GPU`. If you want to use `GPUs` with `e3nn` you need to:
-* be careful to install a version of `torch_geometric` that matches the <strong>same CUDA version</strong> that your `torch` installation uses
-* AND make sure you have the appropriate NVIDIA compilers (`nvcc`) for your CUDA installation.
+* be careful to install a version of `torch_geometric` that matches the <strong>same CUDA version</strong> that your `torch` installation uses (this is general advice and not `e3nn` specific)
+* AND make sure you have the appropriate NVIDIA compilers (`nvcc`) for your CUDA installation so you can compile `e3nn` CUDA kernels.
 
 The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn#installation) and [here](https://github.com/e3nn/e3nn/blob/master/INSTALL.md).
 
