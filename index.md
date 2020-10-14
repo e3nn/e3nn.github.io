@@ -11,6 +11,15 @@ E(3) is the [Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group) in 
 
 # Getting Started {#started}
 
+## How to use the Resources {#how}
+If you'd like to generally learn what `e3nn` is and what it's used for, check out some of [previously recorded talks](#talks) and skimming some of the [papers](#papers). If you'd like to try out `e3nn`, the first step is to [install it](#installation).
+
+[Once you have `e3nn` up and running](#installation), try out the Jupyter notebooks in [e3nn_tutorial](#tutorial). This will give you a feel for the primary data types and classes in `e3nn`. You can also read [e3nn_book](#book) in parallel and dive into more rigorous [math resources](#math). This reading will be helpful for parsing even the most techincal parts of the relevant [papers](#papers). 
+
+If you want to talk to other folks using `e3nn`, you are most welcome to join our [recurring monthly meetings](#recurring) which are shown in the [e3nn calendar](#calendar) and our [Slack](#slack).
+
+We want to help eliminate any bottlenecks in making Euclidean equivariant neural networks and `e3nn` accessible to a broad audience, especially scientists whose primary expertise is not machine learning. If you have an application in mind but not sure how to structure a network around it or other questions not satisfied by this page's resources, feel free to reach out to Tess (`tsmidt at lbl gov`).
+
 ## Installation {#installation}
 
 Installing `e3nn` and dependencies if you are only going to use the `cpu` is straightforward. Things get a bit more complicated if you want to `GPU`. If you want to use `GPUs` with `e3nn` you need to:
@@ -19,6 +28,7 @@ Installing `e3nn` and dependencies if you are only going to use the `cpu` is str
 
 The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn#installation) and [here](https://github.com/e3nn/e3nn/blob/master/INSTALL.md).
 
+# Resources {#resources}
 
 ## Math that's good to know {#math}
 
@@ -28,8 +38,6 @@ The full instructions for installing `e3nn` can be found [here](https://github.c
 * [Lecture Note on Group Theory in Physics by D. Arovas](https://courses.physics.ucsd.edu/2016/Spring/physics220/LECTURES/GROUP_THEORY.pdf)
 * [Group Theory in a Nutshell for Physicists by A. Zee](https://press.princeton.edu/books/hardcover/9780691162690/group-theory-in-a-nutshell-for-physicists)
 * [Linear Representations of Finite Group by J-P. Serre](https://link.springer.com/book/10.1007/978-1-4684-9458-7)
-
-# Resources {#resources}
 
 ## e3nn_tutorial {#tutorial}
 [This website / respository](https://blondegeek.github.io/e3nn_tutorial/) has many illustrative notebooks on how to use `e3nn`. If you run into an error while running these notebooks -- please make a pull request! 
