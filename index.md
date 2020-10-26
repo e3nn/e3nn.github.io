@@ -60,6 +60,9 @@ Some previous recorded talks on `e3nn`.
 
 2019/09 Euclidean Neural Networks for Emulating Ab Initio Calculations and Generating Atomic Geometries, [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), ([video](http://www.ipam.ucla.edu/abstract/?tid=16346&pcode=MLPWS1) // [slides](http://helper.ipam.ucla.edu/publications/mlpws1/mlpws1_16346.pdf)),  IPAM at UCLA, Los Angeles, CA
 
+## Poster {#poster}
+[A poster overview of the `e3nn` framework.](https://tinyurl.com/e3nn-poster)
+
 ## Papers {#papers}
 (in reserve chronological order)
 * 2020/10 [On the Universality of Rotation Equivariant Point Cloud Networks](https://arxiv.org/abs/2010.02449)
