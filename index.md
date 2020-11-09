@@ -40,7 +40,7 @@ The full instructions for installing `e3nn` can be found [here](https://github.c
 * [Linear Representations of Finite Group by J-P. Serre](https://link.springer.com/book/10.1007/978-1-4684-9458-7)
 
 ## e3nn_tutorial {#tutorial}
-[This website / respository](https://blondegeek.github.io/e3nn_tutorial/) has many illustrative notebooks on how to use `e3nn`. If you run into an error while running these notebooks -- please make a pull request! 
+[This link has our quick tutorial](https://gist.github.com/blondegeek/616af44ed17d76fa6e11392b24cf0dc1) and [this website / respository](https://blondegeek.github.io/e3nn_tutorial/) has many illustrative notebooks on how to use `e3nn`. If you run into an error while running these notebooks -- please make a pull request! 
 
 ## e3nn_book [in progress] {#book}
 We are currently in the progress of compiling a more user-friendly introduction to the core concepts used in `e3nn`. You can see the (very incomplete) draft of the book [here](https://docs.google.com/document/d/1rmqhGA9ZyiSZ8o02mIjIsYs8_L-xV9M8aUpiQKsb2zs/edit?usp=sharing). 
