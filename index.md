@@ -48,6 +48,8 @@ We are currently in the progress of compiling a more user-friendly introduction 
 ## Previous Talks {#talks}
 Some previous recorded talks on `e3nn`.
 
+2020/11 Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020. ([slides](https://tinyurl.com/e3nn-physics-meets-ml) // [video](https://www.youtube.com/watch?v=VN2biLjqJXc&ab_channel=PhysicsMeetsML))
+
 2020/09 Unintended Features of E(3)NNs, [Workshop on Equivariance and Data Augmentation](https://sites.google.com/view/equiv-data-aug/home) ([video](https://www.youtube.com/watch?v=vq4s8Xgsmeo&ab_channel=WorkshoponEquivarianceandDataAugmentation) // [slides](https://docs.google.com/presentation/d/1vOOPUC0ZiPye8R3dyrXil21IOqXExTO62-Qktm-sSv4/edit?usp=sharing)), University of Pennsylvania, September 4, 2020
 
 2020/09 Lecture on Symmetry and Equivariance in ML, [Berkeley Lab Deep Learning School](https://dl4sci-school.lbl.gov/agenda) ([video](https://www.youtube.com/watch?v=8s0Ka6Y_kIM&t=3799s&ab_channel=NERSC) // [slides](https://docs.google.com/presentation/d/1Acz3YxUI-pH80n4UOeHWktnnpjslsTXkilmP5ZGBNo4/edit?usp=sharing)), Berkeley Lab, September 3, 2020.
