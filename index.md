@@ -18,7 +18,7 @@ If you'd like to generally learn what `e3nn` is and what it's used for, check ou
 
 If you want to talk to other folks using `e3nn`, you are most welcome to join our [recurring monthly meetings](#recurring) which are shown in the [e3nn calendar](#calendar) and our [Slack](#slack).
 
-We want to help eliminate any bottlenecks in making Euclidean equivariant neural networks and `e3nn` accessible to a broad audience, especially scientists whose primary expertise is not machine learning. If you have an application in mind but not sure how to structure a network around it or other questions not satisfied by this page's resources, feel free to reach out to Tess (`tsmidt at lbl gov`).
+We want to help eliminate any bottlenecks in making Euclidean equivariant neural networks and `e3nn` accessible to a broad audience, especially scientists whose primary expertise is not machine learning. If you have an application in mind but not sure how to structure a network around it or other questions not satisfied by this page's resources, feel free to reach out to Tess (`tess@e3nn.org`).
 
 ## Installation {#installation}
 
@@ -105,17 +105,17 @@ Some previous recorded talks on `e3nn`.
   * <strong>Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov, Gabriel J. Brostow</strong>
   * SE(2) Equivariant networks 
 
-If there are any papers that you think should be on this list but are missing, please email Tess `tsmidt at lbl gov` with a citation and description that matches the examples above.
+If there are any papers that you think should be on this list but are missing, please email Tess `tess@e3nn.org`  with a citation and description that matches the examples above.
 
 ## Slack {#slack}
-The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Tess `tsmidt at lbl gov`.
+The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Tess `tess@e3nn.org`.
 
 ## Recurring Meetings / Events {#recurring}
 `e3nn` has two recurring monthly meetings in addition to other events on our [calendar](#calendar).
 * A monthly developers / collaboration 1.5 hour meeting on the first Wednesday of every month (typically) at 10 am Pacific Time. We typically go around and each give a brief update on what we've been working on and if there are any difficulties we are running into.
 * A monthly tutorials / documentation hackathon on the second Wednesday of every month starting at 10 am Pacific Time and ending around 6 pm Pacific Time. This is a great opportunity to ask questions.
 
-<strong>Everyone is welcome to join these meetings -- yes, that means you!</strong> The meeting links are in the calendar events show below. Feel free to reach out to Tess `tsmidt at lbl gov` to introduce yourself if you are new to joining the meetings.
+<strong>Everyone is welcome to join these meetings -- yes, that means you!</strong> The meeting links are in the calendar events show below. Feel free to reach out to `support@e3nn.org` to introduce yourself if you are new to joining the meetings.
 
 # Calendar {#calendar}
 ## with Upcoming Tutorials / Meetings / Hackathons
@@ -126,8 +126,8 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
 
 ### Core-development team
 (aka the people answering pull-requests)
-* [Mario Geiger](https://mariogeiger.ch/) (`e3nn`'s [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life))
-* [Tess Smidt](http://blondegeek.github.io/) (`tsmidt at lbl gov`)
+* [Mario Geiger](https://mariogeiger.ch/) (`e3nn`'s [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life), `mario@e3nn.org`)
+* [Tess Smidt](http://blondegeek.github.io/) (`tess@e3nn.org`)
 * [Ben Miller](http://mathben.com/)
 * [Kostiantyn Lapchevskyi](https://atomicarchitects.github.io/#koctya)
 
