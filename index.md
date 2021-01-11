@@ -28,6 +28,12 @@ Installing `e3nn` and dependencies if you are only going to use the `cpu` is str
 
 The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn#installation) and [here](https://github.com/e3nn/e3nn/blob/master/INSTALL.md).
 
+# Help {#help}
+To get help with a question or code bug, please [follow this link](https://github.com/e3nn/e3nn#help).
+
+# Contributing {#contributing}
+To get involved with the development and improvement of `e3nn`, please [follow this link](https://github.com/e3nn/e3nn#want-to-get-involved-great).
+
 # Resources {#resources}
 
 ## Math that's good to know {#math}
@@ -67,8 +73,12 @@ Some previous recorded talks on `e3nn`.
 
 ## Papers {#papers}
 (in reserve chronological order)
+
+* 2021/01 [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
+  * <strong>Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky</strong>
+  * An equivariant Machine Learning Interatomic Potential that not obtains SOTA on MD-17 and outperforms existing potentials with up to 1000x fewer data.
 * 2020/10 [On the Universality of Rotation Equivariant Point Cloud Networks](https://arxiv.org/abs/2010.02449)
-  * <strong>Nadav Dym, Haggai Maron<strong>
+  * <strong>Nadav Dym, Haggai Maron</strong>
   * Proves the expressivity of rotation equivariant neural networks.
 * 2020/09 [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
   * <strong>Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li</strong>
@@ -120,7 +130,6 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
 # Calendar {#calendar}
 ## with Upcoming Tutorials / Meetings / Hackathons
 <iframe src="https://calendar.google.com/calendar/embed?src=c_mvmhtnsv9hrf3iac9dbslq8seg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 
 ## `e3nn` Team {#team}
 
