@@ -3,6 +3,8 @@
 This is the website for the `e3nn` repository
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/e3nn/e3nn/](https://github.com/e3nn/e3nn/)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Documentation](https://docs.e3nn.org/)
 
 E(3) is the [Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group) in dimension 3. That is the group of rotations, translations and mirror.
 [`e3nn`](https://github.com/e3nn/e3nn/) is a [pytorch](https://pytorch.org) library that aims to create **E**(**3**) equivariant **n**eural **n**etworks.
@@ -26,13 +28,13 @@ Be careful to install a version of `torch_geometric` that matches the <strong>sa
 
 The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn/blob/main/INSTALL.md).
 
-# Help {#help}
-To get help with a question or code bug, please [follow this link](https://github.com/e3nn/e3nn#help).
-
-# Contributing {#contributing}
-To get involved with the development and improvement of `e3nn`, please [follow this link](https://github.com/e3nn/e3nn#want-to-get-involved-great).
-
 # Resources {#resources}
+
+## e3nn_docs {#docs}
+The documentation is [here](https://docs.e3nn.org/)
+
+## e3nn_tutorial {#tutorial}
+Coming soon
 
 ## Math that's good to know {#math}
 
@@ -42,12 +44,6 @@ To get involved with the development and improvement of `e3nn`, please [follow t
 * [Lecture Note on Group Theory in Physics by D. Arovas](https://courses.physics.ucsd.edu/2016/Spring/physics220/LECTURES/GROUP_THEORY.pdf)
 * [Group Theory in a Nutshell for Physicists by A. Zee](https://press.princeton.edu/books/hardcover/9780691162690/group-theory-in-a-nutshell-for-physicists)
 * [Linear Representations of Finite Group by J-P. Serre](https://link.springer.com/book/10.1007/978-1-4684-9458-7)
-
-## e3nn_docs {#docs}
-The documentation is [here](https://docs.e3nn.org/)
-
-## e3nn_tutorial {#tutorial}
-Coming soon
 
 ## e3nn_book [in progress] {#book}
 We are currently in the progress of compiling a more user-friendly introduction to the core concepts used in `e3nn`.
@@ -127,6 +123,12 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
 * A monthly tutorials / documentation hackathon on the second Wednesday of every month starting at 10 am Pacific Time and ending around 6 pm Pacific Time. This is a great opportunity to ask questions.
 
 <strong>Everyone is welcome to join these meetings -- yes, that means you!</strong> The meeting links are in the calendar events show below. Feel free to reach out to `support@e3nn.org` to introduce yourself if you are new to joining the meetings.
+
+# Help {#help}
+To get help with a question or code bug, please [follow this link](https://github.com/e3nn/e3nn#help).
+
+# Contributing {#contributing}
+To get involved with the development and improvement of `e3nn`, please [follow this link](https://github.com/e3nn/e3nn#want-to-get-involved-great).
 
 # Calendar {#calendar}
 ## with Upcoming Tutorials / Meetings / Hackathons
