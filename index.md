@@ -3,6 +3,8 @@
 This is the website for the `e3nn` repository
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/e3nn/e3nn/](https://github.com/e3nn/e3nn/)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Documentation](https://docs.e3nn.org/)
 
 E(3) is the [Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group) in dimension 3. That is the group of rotations, translations and mirror.
 [`e3nn`](https://github.com/e3nn/e3nn/) is a [pytorch](https://pytorch.org) library that aims to create **E**(**3**) equivariant **n**eural **n**etworks.
@@ -14,7 +16,7 @@ E(3) is the [Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group) in 
 ## How to use the Resources {#how}
 If you'd like to generally learn what `e3nn` is and what it's used for, check out some of [previously recorded talks](#talks) and skimming some of the [papers](#papers). If you'd like to try out `e3nn`, the first step is to [install it](#installation).
 
-[Once you have `e3nn` up and running](#installation), try out the Jupyter notebooks in [e3nn_tutorial](#tutorial). This will give you a feel for the primary data types and classes in `e3nn`. You can also read [e3nn_book](#book) in parallel and dive into more rigorous [math resources](#math). This reading will be helpful for parsing even the most techincal parts of the relevant [papers](#papers). 
+[Once you have `e3nn` up and running](#installation), try out the Jupyter notebooks in [e3nn_tutorial](#tutorial). This will give you a feel for the primary data types and classes in `e3nn`. You can also read [e3nn_book](#book) in parallel and dive into more rigorous [math resources](#math). This reading will be helpful for parsing even the most techincal parts of the relevant [papers](#papers).
 
 If you want to talk to other folks using `e3nn`, you are most welcome to join our [recurring monthly meetings](#recurring) which are shown in the [e3nn calendar](#calendar) and our [Slack](#slack).
 
@@ -22,19 +24,17 @@ We want to help eliminate any bottlenecks in making Euclidean equivariant neural
 
 ## Installation {#installation}
 
-Installing `e3nn` and dependencies if you are only going to use the `cpu` is straightforward. Things get a bit more complicated if you want to `GPU`. If you want to use `GPUs` with `e3nn` you need to:
-* be careful to install a version of `torch_geometric` that matches the <strong>same CUDA version</strong> that your `torch` installation uses (this is general advice and not `e3nn` specific)
-* AND make sure you have the appropriate NVIDIA compilers (`nvcc`) for your CUDA installation so you can compile `e3nn` CUDA kernels.
+Be careful to install a version of `torch_geometric` that matches the <strong>same CUDA version</strong> that your `torch` installation uses (this is general advice and not `e3nn` specific)
 
-The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn#installation) and [here](https://github.com/e3nn/e3nn/blob/master/INSTALL.md).
-
-# Help {#help}
-To get help with a question or code bug, please [follow this link](https://github.com/e3nn/e3nn#help).
-
-# Contributing {#contributing}
-To get involved with the development and improvement of `e3nn`, please [follow this link](https://github.com/e3nn/e3nn#want-to-get-involved-great).
+The full instructions for installing `e3nn` can be found [here](https://github.com/e3nn/e3nn/blob/main/INSTALL.md).
 
 # Resources {#resources}
+
+## e3nn_docs {#docs}
+The documentation is [here](https://docs.e3nn.org/)
+
+## e3nn_tutorial {#tutorial}
+Coming soon
 
 ## Math that's good to know {#math}
 
@@ -45,11 +45,8 @@ To get involved with the development and improvement of `e3nn`, please [follow t
 * [Group Theory in a Nutshell for Physicists by A. Zee](https://press.princeton.edu/books/hardcover/9780691162690/group-theory-in-a-nutshell-for-physicists)
 * [Linear Representations of Finite Group by J-P. Serre](https://link.springer.com/book/10.1007/978-1-4684-9458-7)
 
-## e3nn_tutorial {#tutorial}
-[This link has our quick tutorial](https://gist.github.com/blondegeek/616af44ed17d76fa6e11392b24cf0dc1) and [this website / respository](https://blondegeek.github.io/e3nn_tutorial/) has many illustrative notebooks on how to use `e3nn`. If you run into an error while running these notebooks -- please make a pull request! 
-
 ## e3nn_book [in progress] {#book}
-We are currently in the progress of compiling a more user-friendly introduction to the core concepts used in `e3nn`. You can see the (very incomplete) draft of the book [here](https://docs.google.com/document/d/1rmqhGA9ZyiSZ8o02mIjIsYs8_L-xV9M8aUpiQKsb2zs/edit?usp=sharing). 
+We are currently in the progress of compiling a more user-friendly introduction to the core concepts used in `e3nn`.
 
 ## Previous Talks {#talks}
 Some previous recorded talks on `e3nn`.
@@ -117,7 +114,7 @@ Some previous recorded talks on `e3nn`.
   * <strong>Maurice Weiler, Gabriele Cesa</strong>
 * 2016/12 [Harmonic Networks: Deep Translation and Rotation Equivariance](https://arxiv.org/abs/1612.04642)
   * <strong>Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov, Gabriel J. Brostow</strong>
-  * SE(2) Equivariant networks 
+  * SE(2) Equivariant networks
 
 If there are any papers that you think should be on this list but are missing, please email Tess `tess@e3nn.org`  with a citation and description that matches the examples above.
 
@@ -130,6 +127,12 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
 * A monthly tutorials / documentation hackathon on the second Wednesday of every month starting at 10 am Pacific Time and ending around 6 pm Pacific Time. This is a great opportunity to ask questions.
 
 <strong>Everyone is welcome to join these meetings -- yes, that means you!</strong> The meeting links are in the calendar events show below. Feel free to reach out to `support@e3nn.org` to introduce yourself if you are new to joining the meetings.
+
+# Help {#help}
+To get help with a question or code bug, please [follow this link](https://github.com/e3nn/e3nn#help).
+
+# Contributing {#contributing}
+To get involved with the development and improvement of `e3nn`, please [follow this link](https://github.com/e3nn/e3nn#want-to-get-involved-great).
 
 # Calendar {#calendar}
 ## with Upcoming Tutorials / Meetings / Hackathons
@@ -156,6 +159,7 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
             <li> Simon Batzner
             <li> Boris Kozinsky
             <li> Eugene Kwan
+            <li> Albert Musaelian
         </ul>
     </td>
     <td>
@@ -170,4 +174,4 @@ The `e3nn` developers and several collaborators discuss ideas and help each othe
 </tr>
 </table>
 {:/}
- 
+
