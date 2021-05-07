@@ -74,6 +74,10 @@ Some previous recorded talks on `e3nn`.
 ## Papers {#papers}
 (in reserve chronological order)
 
+* 2021/02 [Rotation-Equivariant Deep Learning for Diffusion MRI](https://arxiv.org/abs/2102.06942)
+  * <strong>Philip Müller, Vladimir Golkov, Valentina Tomassini, Daniel Cremers</strong>
+  * Equivariance under 3D rotations for 6D diffusion MRI, outperforming existing methods and requiring fewer training data.
+
 * 2021/01 [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
   * <strong>Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky</strong>
   * An equivariant Machine Learning Interatomic Potential that not obtains SOTA on MD-17 and outperforms existing potentials with up to 1000x fewer data.
