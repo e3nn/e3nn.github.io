@@ -69,53 +69,8 @@ Some previous recorded talks on `e3nn`.
 [A poster overview of the `e3nn` framework.](https://tinyurl.com/e3nn-poster)
 
 ## Papers {#papers}
-(in reserve chronological order)
 
-* 2021/02 [Rotation-Equivariant Deep Learning for Diffusion MRI](https://arxiv.org/abs/2102.06942)
-  * <strong>Philip Müller, Vladimir Golkov, Valentina Tomassini, Daniel Cremers</strong>
-  * Equivariance under 3D rotations for 6D diffusion MRI, outperforming existing methods and requiring fewer training data.
-* 2021/01 [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
-  * <strong>Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky</strong>
-  * An equivariant Machine Learning Interatomic Potential that not obtains SOTA on MD-17 and outperforms existing potentials with up to 1000x fewer data.
-* 2020/10 [On the Universality of Rotation Equivariant Point Cloud Networks](https://arxiv.org/abs/2010.02449)
-  * <strong>Nadav Dym, Haggai Maron</strong>
-  * Proves the expressivity of rotation equivariant neural networks.
-* 2020/09 [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
-  * <strong>Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li</strong>
-  * `e3nn` is used to predict phonon density of states (DOS) from crystal structure. Trained network is used to identify materials with high specific heat.
-* 2020/09 [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
-  * <strong>Tess E. Smidt</strong>
-  * A mini review on invariant vs. equivariant ML models.
-* 2020/08 [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
-  * <strong>Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé</strong>
-  * Includes benchmark of `e3nn` on QM9.
-* 2020/07 [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://arxiv.org/abs/2007.02005) ([code](https://github.com/blondegeek/e3nn_symm_breaking))
-  * <strong>Tess E. Smidt, Mario Geiger, Benjamin Kurt Miller</strong>
-  * Demonstrates how to use `e3nn` to perform a symmetry analysis to resolve order parameters for 2nd order phase transitions.
-* 2020/06 [Hierarchical, rotation-equivariant neural networks to predict the structure of protein complexes](https://arxiv.org/abs/2006.09275)
-  * <strong>Stephan Eismann, Raphael J.L. Townshend, Nathaniel Thomas, Milind Jagota, Bowen Jing, Ron Dror</strong>
-* 2020/06 [SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://arxiv.org/abs/2006.10503)
-  * <strong>Fabian B. Fuchs, Daniel E. Worrall, Volker Fischer, Max Welling</strong>
-* 2019/06 [Cormorant](https://arxiv.org/abs/1906.04015)
-  * <strong>Brandon Anderson, Truong-Son Hy, Risi Kondor</strong>
-  * Introduces n-body convolutions.
-* 2018/07 [3D Steerable CNNs](https://arxiv.org/abs/1807.02547)*
-  * <strong>Maurice Weiler, Mario Geiger, Max Welling, Wouter Boomsma, Taco Cohen</strong>
-* 2018/06 [Clebsch-Gordan Networks](https://arxiv.org/abs/1806.09231)*
-  * <strong>Risi Kondor, Zhen Lin, Shubhendu Trivedi</strong>
-* 2018/02 [Tensor Field Networks](https://arxiv.org/abs/1802.08219)* ([code](https://github.com/tensorfieldnetworks/tensorfieldnetworks))
-  * <strong>Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley</strong>
-
-*indicates foundational paper in the development of Euclidean neural networks.
-
-### Related work
-* 2019/11 [General E(2)-Equivariant Steerable CNNs](https://arxiv.org/abs/1911.08251)
-  * <strong>Maurice Weiler, Gabriele Cesa</strong>
-* 2016/12 [Harmonic Networks: Deep Translation and Rotation Equivariance](https://arxiv.org/abs/1612.04642)
-  * <strong>Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov, Gabriel J. Brostow</strong>
-  * SE(2) Equivariant networks
-
-If there are any papers that you think should be on this list but are missing, please email Tess `tess@e3nn.org`  with a citation and description that matches the examples above.
+Please see [this repo](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) for an up to date list of papers on equivariant networks.
 
 ## Slack {#slack}
 The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Tess `tess@e3nn.org`.
