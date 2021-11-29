@@ -34,7 +34,7 @@ The full instructions for installing `e3nn` can be found [here](https://github.c
 The documentation is [here](https://docs.e3nn.org/)
 
 ## e3nn_tutorial {#tutorial}
-Coming soon
+* [MRS 2021 Fall Meeting Tutorial](https://e3nn.org/mrs)
 
 ## Math that's good to know {#math}
 
