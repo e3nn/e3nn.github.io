@@ -73,7 +73,7 @@ Some previous recorded talks on `e3nn`.
 Please see [this repo](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) for an up to date list of papers on equivariant networks.
 
 ## Slack {#slack}
-The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Tess `tess@e3nn.org`.
+The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Mario `mario@e3nn.org`.
 
 ## Recurring Meetings / Events {#recurring}
 `e3nn` has two recurring monthly meetings in addition to other events on our [calendar](#calendar).
