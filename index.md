@@ -76,9 +76,7 @@ Please see [this repo](https://github.com/Chen-Cai-OSU/awesome-equivariant-netwo
 The `e3nn` developers and several collaborators discuss ideas and help each other out with projects via Slack. If you'd like to join the Slack, please send an email to Mario `mario@e3nn.org`.
 
 ## Recurring Meetings / Events {#recurring}
-`e3nn` has two recurring monthly meetings in addition to other events on our [calendar](#calendar).
-* A monthly developers / collaboration 1.5 hour meeting on the first Wednesday of every month (typically) at 10 am Pacific Time. We typically go around and each give a brief update on what we've been working on and if there are any difficulties we are running into.
-* A monthly tutorials / documentation hackathon on the second Wednesday of every month starting at 10 am Pacific Time and ending around 6 pm Pacific Time. This is a great opportunity to ask questions.
+We do not currently have recurring meetings. When we do they will appear on our [calendar](#calendar).
 
 <strong>Everyone is welcome to join these meetings -- yes, that means you!</strong> The meeting links are in the calendar events show below. Feel free to reach out to `support@e3nn.org` to introduce yourself if you are new to joining the meetings.
 
