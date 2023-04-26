@@ -22,8 +22,8 @@ If you want to talk to other folks using `e3nn`, you are most welcome to join ou
 
 ## Installation {#installation}
 
-For pytorch run `pip install --upgrade e3nn`.
-For jax run `pip install --upgrade e3nn-jax`.
+- For pytorch run `pip install --upgrade e3nn`.
+- For jax run `pip install --upgrade e3nn-jax`.
 
 # Resources {#resources}
 
